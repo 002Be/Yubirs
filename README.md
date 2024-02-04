@@ -14,13 +14,13 @@ Yubirs, kullanıcılara çeşitli restoranlardan yemek siparişi verme imkanı s
 
 ## Sayfalar
 ### Ana Sayfa
-![Ana Sayfa](githubAssets/)
+![Ana Sayfa](githubAssets/anasayfa.png)
 ### Restoranlar Sayfası
-![Restoranlar Sayfası](githubAssets/)
+![Restoranlar Sayfası](githubAssets/restoranlar.png)
 ### Restoran Sayfa
-![Restoran Sayfa](githubAssets/)
+![Restoran Sayfa](githubAssets/restoran.png)
 ### Partner Panel
-![Partner Panel](githubAssets/)
+![Partner Panel](githubAssets/partner.png)
 
 ## Teknolojiler ve Kullanılanlar
 "Yubirs" projesi aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
